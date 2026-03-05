@@ -1,0 +1,36 @@
+# Azure
+*.parameters.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.cursor/
+.idea/
+*.swp
+.DS_Store
+
+# Secrets
+.env
+secrets/
+*.key
+*.pem
+*.pfx
+
+# Logs
+*.log
+logs/
+
+# Temp
+temp/
+tmp/
+*.tmp
+
+# Build
+dist/
+build/
